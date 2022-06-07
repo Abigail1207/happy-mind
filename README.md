@@ -13,8 +13,7 @@
 ---
 
 ## A mobile app that helps you take the first steps to improving your mental wellbeing
-
-# Overview video
+---
 https://user-images.githubusercontent.com/95905131/172441221-afc7214b-a8f1-451d-a8e4-c927d42acb5c.mp4
 
 
